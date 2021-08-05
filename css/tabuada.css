@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+    margin: 50px auto;
+}
+
+header {
+ color: rgb(84, 135, 180);
+ text-align: center;
+}
+
+main {
+    background-color: azure;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+div {
+    padding: 15px;
+}
+
+div#result {
+    width: 15%;
+    border: 15px blue;
+    padding-bottom: 15px;
+}
+
+footer {
+    text-align: center;
+}

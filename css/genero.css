@@ -1,0 +1,30 @@
+* {
+    margin: 0 auto;
+}
+body {
+    background-color: rgb(58, 241, 196);
+}
+
+header {
+    font-family: normal 14pt Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+
+main {
+    background-color: aliceblue;
+    width: 40%;
+}
+
+img {
+    max-width: 200px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: top right;
+    border-radius: 70px;
+}
+
+footer {
+    text-align: center;
+}

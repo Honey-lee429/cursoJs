@@ -1,0 +1,30 @@
+* {
+    margin: 10px auto;
+    padding: 0 5px;
+    color: blueviolet;
+}
+
+body {
+    background-color: aliceblue;
+    text-align: center;
+    margin: 50px auto;
+}
+
+form {
+    background-color: aquamarine;
+    width: 300px;
+    text-align: left;
+}
+
+fieldset {
+    border: none;
+}
+
+select option{
+    width: 70px;
+    margin: 0;
+}
+
+fieldset label {
+    margin-top: 50px;
+}
